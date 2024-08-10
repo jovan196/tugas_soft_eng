@@ -7,7 +7,7 @@ Repository ini memuat file HTML yang berisi website portofolio seorang SPARTAN 2
 Bukalah file index.html beserta gambar di folder yang sama. Untuk deployment secara online, taruhlah file index.html dan gambar di folder public_html di webhosting atau direktori yang sejenis.
 
 # Bonuses
-Deployment online: jojosir535.w3spaces.com (selesai)
+Deployment online: https://jojosir535.w3spaces.com (selesai)
 CSS (parsial)
 CMS (tidak mengerjakan)
 
